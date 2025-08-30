@@ -11,6 +11,6 @@
 Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am learning to become a programmer and developer!
 
 <h3>
-  <img src="https://cdn.simpleicons.org/github/000000" width="20" align="absmiddle"/> | Recent Activites:
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="20" align="absmiddle"/> | Recent Activites:
 </h3>
 <!--START_SECTION:activity-->
