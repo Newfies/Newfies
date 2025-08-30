@@ -21,7 +21,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
 <!--QUOTE-END-->
 
 <h3>
-    <img src="res/chart.svg" width="20" align="absmiddle"/> | GitHub Stats:
+    <img src="res/stats.svg" width="20" align="absmiddle"/> | GitHub Stats:
     <!-- Image By FontAwesome.com : https://fontawesome.com/icons/message -->
 </h3>
 
