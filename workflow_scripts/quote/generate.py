@@ -29,7 +29,7 @@ else:
     raise Exception(f"Failed to fetch image: {response.status_code}")
 
 # Build markdown for README
-quote_image_md = f"![Quote](https://raw.githubusercontent.com/Newfies/Newfies/refs/heads/main/quote.png)\n"
+quote_image_md = f"![Quote](https://raw.githubusercontent.com/Newfies/Newfies/refs/heads/main/res/quote.png)\n"
 
 # Read existing README
 with open(readme_path, "r", encoding="utf-8") as file:
