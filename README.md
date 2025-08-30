@@ -15,6 +15,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
   <img src="res/quote.svg" width="20" align="absmiddle"/> | Newfies Quote:
   <!-- Image By FontAwesome.com : https://fontawesome.com/icons/message -->
 </h3>
+
 <!--QUOTE-START-->
 ![Quote](https://raw.githubusercontent.com/Newfies/Newfies/refs/heads/main/res/quote.png)
 <!--QUOTE-END-->
