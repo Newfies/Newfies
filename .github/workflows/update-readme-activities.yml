@@ -1,4 +1,4 @@
-name: README Activities
+name: Update README Activities
 on:
   schedule:
     - cron: "*/30 * * * *"
