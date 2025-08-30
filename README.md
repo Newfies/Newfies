@@ -5,3 +5,6 @@
 <h3> 👤 | Introduction: </h3>
 
 Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am learning programmer and developer!
+
+<h3> 🤖 | Recent Activites: </h3>
+<!--START_SECTION:activity-->
