@@ -4,7 +4,8 @@
 -->
 
 <h3>
-  <img src="res/user-solid-full.svg" width="20" align="absmiddle"/> | Introduction
+  <img src="res/introduction-icon.svg" width="20" align="absmiddle"/> | Introduction
+  <!-- Image By FontAwesome.com : https://fontawesome.com/icons/user -->
 </h3>
 
 
