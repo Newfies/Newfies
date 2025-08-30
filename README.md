@@ -16,6 +16,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
   <!-- Image By FontAwesome.com : https://fontawesome.com/icons/message -->
 </h3>
 <!--QUOTE-START-->
+![Quote](quote.png)
 <!--QUOTE-END-->
 
 <h3>
