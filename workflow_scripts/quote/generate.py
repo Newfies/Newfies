@@ -2,6 +2,7 @@ import random
 import urllib.parse
 import requests
 import os
+import time
 
 # Paths
 repo_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
@@ -30,8 +31,9 @@ if response.status_code == 200:
 else:
     raise Exception(f"Failed to fetch image: {response.status_code}")
 
-# Build markdown for README
-quote_image_md = f"![Quote](res/quote.png)\n"
+# Add a timestamp to bust GitHub cache
+timestamp = int(time.time())
+quote_image_md = f"![Quote](https://raw.githubusercontent.com/Newfies/Newfies/refs/heads/main/res/quote.png?{timestamp})\n"
 
 # Read existing README
 with open(readme_path, "r", encoding="utf-8") as file:

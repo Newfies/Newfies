@@ -23,4 +23,6 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
 <h3>
   <img src="https://cdn.simpleicons.org/github/ffffff" width="20" align="absmiddle"/> | Recent Activites:
 </h3>
+
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
