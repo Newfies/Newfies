@@ -6,7 +6,9 @@ import os
 # Paths
 repo_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
 readme_path = os.path.join(repo_root, "README.md")
-quote_image_path = os.path.join(repo_root, "res/quote.png")
+res_dir = os.path.join(repo_root, "res")
+os.makedirs(res_dir, exist_ok=True)
+quote_image_path = os.path.join(res_dir, "quote.png")
 quotes_file_path = os.path.join(os.path.dirname(__file__), "quotes.txt")
 
 # Load quotes
@@ -18,7 +20,7 @@ quote = random.choice(quotes)
 
 # URL-encode the quote for APITemplate
 encoded_quote = urllib.parse.quote(quote)
-api_url = f"https://rest.apitemplate.io/c2977b23db95f3a0@j6p7MT5g/image.png??Quote.text={encoded_quote}"
+api_url = f"https://rest.apitemplate.io/c2977b23db95f3a0@j6p7MT5g/image.png?Quote.text={encoded_quote}"
 
 # Download the image
 response = requests.get(api_url)
