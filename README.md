@@ -1,6 +1,7 @@
 ![Logo](res/banner.png)
-| [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) | [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) | [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) | [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) | [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) |
+<!--| [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) | [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) | [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) | [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) | [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) |
 |-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
+-->
 
 <h3> 👤 | Introduction: </h3>
 
