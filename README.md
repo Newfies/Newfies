@@ -16,6 +16,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
   <!-- Image By FontAwesome.com : https://fontawesome.com/icons/message -->
 </h3>
 <!--QUOTE-START-->
+![Quote](https://rest.apitemplate.io/c2977b23db95f3a0@1dn1PF3B/image.png?Quote.text=I%20use%20Brave%20Browser.)
 <!--QUOTE-END-->
 
 <h3>
