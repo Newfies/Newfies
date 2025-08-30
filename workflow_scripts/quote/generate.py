@@ -6,7 +6,7 @@ import os
 # Paths
 repo_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
 readme_path = os.path.join(repo_root, "README.md")
-quote_image_path = os.path.join(repo_root, "quote.png")
+quote_image_path = os.path.join(repo_root, "res/quote.png")
 quotes_file_path = os.path.join(os.path.dirname(__file__), "quotes.txt")
 
 # Load quotes
