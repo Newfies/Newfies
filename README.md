@@ -11,7 +11,7 @@
 
 Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am learning to become a programmer and developer!
 
-<h3>
+<h3>s
   <img src="res/quote.svg" width="20" align="absmiddle"/> | Newfies Quote:
   <!-- Image By FontAwesome.com : https://fontawesome.com/icons/message -->
 </h3>
