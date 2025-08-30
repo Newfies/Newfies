@@ -21,7 +21,16 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
 <!--QUOTE-END-->
 
 <h3>
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="20" align="absmiddle"/> | Recent Activites:
+    <img src="res/chart.svg" width="20" align="absmiddle"/> | GitHub Stats:
+    <!-- Image By FontAwesome.com : https://fontawesome.com/icons/message -->
+</h3>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Newfies&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Newfies&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=Newfies&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
+
+<h3>
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="20" align="absmiddle"/> | Recent Activites:
 </h3>
 
 <!--START_SECTION:activity-->
