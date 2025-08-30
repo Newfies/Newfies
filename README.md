@@ -1,5 +1,5 @@
 ![Logo](res/banner.png)
-| [Link1](https://google.com) | [Link2](https://google.com) | [Link3](https://google.com) | [Link4](https://google.com) | [Ko-fi](https://google.com) |
+| [Link1](https://google.com) | [Link2](https://google.com) | [Link3](https://google.com) | [Link4](https://google.com) | [[Ko-fi](https://img.shields.io/badge/Ko--fi-fff?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) |
 |-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 
 <h3> 👤 | Introduction: </h3>
