@@ -3,7 +3,7 @@
 |-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 -->
 
-<h3> 👤 | Introduction: </h3>
+<h3> <img src="https://cdn.simpleicons.org/github/000000" width="20"/> | Introduction </h3>
 
 Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am learning to become a programmer and developer!
 
