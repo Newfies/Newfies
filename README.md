@@ -25,10 +25,11 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
     <!-- Image By FontAwesome.com : https://fontawesome.com/icons/message -->
 </h3>
 
-![](https://github-readme-stats.vercel.app/api?username=newfies&theme=shadow_red&show_icons=true&border_color=bb0000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=8c0000)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Newfies&&theme=shadow_red&show_icons=true&border_color=bb0000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=8c0000&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Newfies&theme=shadow_red&show_icons=true&border_color=bb0000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=8c0000&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=Newfies&limit=5&theme=shadow_red&show_icons=true&border_color=bb0000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=8c0000&combine_all_yearly_contributions=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=newfies&theme=shadow_red&show_icons=true&border_color=bb0000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=8c0000&card_width=530)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Newfies&&theme=shadow_red&show_icons=true&border_color=bb0000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=8c0000&hide_border=false&include_all_commits=true&count_private=true&card_width=530)<br/>
+
+![](https://github-contributor-stats.vercel.app/api?username=Newfies&limit=5&theme=shadow_red&show_icons=true&border_color=bb0000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=8c0000&combine_all_yearly_contributions=true&card_width=530)<br/>
 
 <h3>
     <img src="https://cdn.simpleicons.org/github/ffffff" width="20" align="absmiddle"/> | Recent Activites:
