@@ -2,7 +2,7 @@ import random
 import urllib.parse
 
 # Load quotes
-with open("quotes.txt", "r", encoding="utf-8") as file:
+with open("workflow_scripts/quote/quotes.txt", "r", encoding="utf-8") as file:
     quotes = [q.strip() for q in file if q.strip()]  # Remove empty lines
 
 # Pick a random quote
