@@ -18,7 +18,7 @@ quote = random.choice(quotes)
 
 # URL-encode the quote for APITemplate
 encoded_quote = urllib.parse.quote(quote)
-api_url = f"https://rest.apitemplate.io/c2977b23db95f3a0@1dn1PF3B/image.png?Quote.text={encoded_quote}"
+api_url = f"https://rest.apitemplate.io/c2977b23db95f3a0@j6p7MT5g/image.png??Quote.text={encoded_quote}"
 
 # Download the image
 response = requests.get(api_url)
@@ -29,7 +29,7 @@ else:
     raise Exception(f"Failed to fetch image: {response.status_code}")
 
 # Build markdown for README
-quote_image_md = f"![Quote](quote.png)\n"
+quote_image_md = f"![Quote](https://raw.githubusercontent.com/Newfies/Newfies/refs/heads/main/quote.png)\n"
 
 # Read existing README
 with open(readme_path, "r", encoding="utf-8") as file:
