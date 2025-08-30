@@ -4,7 +4,7 @@
 -->
 
 <h3>
-  <img src="https://cdn.simpleicons.org/github/000000" width="25" align="absmiddle"/> | Introduction
+  <img src="https://cdn.simpleicons.org/github/000000" width="20" align="absmiddle"/> | Introduction
 </h3>
 
 
