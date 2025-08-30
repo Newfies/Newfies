@@ -4,11 +4,13 @@
 -->
 
 <h3>
-  <img src="https://cdn.simpleicons.org/github/000000" width="20" align="absmiddle"/> | Introduction
+  <img src="res/user-solid-full.svg" width="20" align="absmiddle"/> | Introduction
 </h3>
 
 
 Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am learning to become a programmer and developer!
 
-<h3> 🤖 | Recent Activites: </h3>
+<h3>
+  <img src="https://cdn.simpleicons.org/github/000000" width="20" align="absmiddle"/> | Recent Activites:
+</h3>
 <!--START_SECTION:activity-->
