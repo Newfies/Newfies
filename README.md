@@ -31,6 +31,8 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
 
 ![](https://github-contributor-stats.vercel.app/api?username=Newfies&limit=5&theme=shadow_red&show_icons=true&border_color=bb0000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=8c0000&combine_all_yearly_contributions=true&card_width=530)<br/>
 
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Newfies&theme=shadow_red&show_icons=true&border_color=bb0000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=8c0000&card_width=530)<br/>
+
 <h3>
     <img src="https://cdn.simpleicons.org/github/ffffff" width="20" align="absmiddle"/> | Recent Activites:
 </h3>
