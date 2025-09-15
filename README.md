@@ -38,4 +38,5 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
 </h3>
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [First Release](https://github.com/Newfies/Rokit-Releases/releases/tag/releases) in [Newfies/Rokit-Releases](https://github.com/Newfies/Rokit-Releases)
 <!--END_SECTION:activity-->
