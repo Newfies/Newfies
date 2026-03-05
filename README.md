@@ -38,5 +38,5 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Dino](https://github.com/Newfies/G-Dino/releases/tag/Dino) in [Newfies/G-Dino](https://github.com/Newfies/G-Dino)
+1. 🚀 Published release [PacMan](https://github.com/Newfies/G-Pac-Man/releases/tag/PacMan) in [Newfies/G-Pac-Man](https://github.com/Newfies/G-Pac-Man)
 <!--END_SECTION:activity-->
