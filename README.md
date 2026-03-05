@@ -38,5 +38,5 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Solitaire](https://github.com/Newfies/G-Solitaire/releases/tag/solitaire) in [Newfies/G-Solitaire](https://github.com/Newfies/G-Solitaire)
+1. 🚀 Published release [Dino](https://github.com/Newfies/G-Dino/releases/tag/Dino) in [Newfies/G-Dino](https://github.com/Newfies/G-Dino)
 <!--END_SECTION:activity-->
