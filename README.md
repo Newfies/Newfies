@@ -1,7 +1,4 @@
 ![Logo](res/banner.png)
-<!--| [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) | [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) | [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) | [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) | [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) |
-|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
--->
 
 <h3>
   <img src="res/introduction-icon.svg" width="20" align="absmiddle"/> | Introduction:
@@ -34,9 +31,22 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
 ![](https://github-contributor-stats.vercel.app/api?username=Newfies&limit=5&theme=shadow_red&show_icons=true&border_color=bb0000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=8c0000&combine_all_yearly_contributions=true&card_width=530)<br/>
 
 <h3>
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="20" align="absmiddle"/> | My Proud Creations:
+</h3>
+
+1. [New Encrypted Login System](https://github.com/Newfies/secure-bcrypt-sqlite-login-system) | I wanna recreate this without the help of AI but for now here is my idea.
+2. [NoMoCens Open Source](https://newfies.github.io/OpenSource-S/)
+
+<h3>
     <img src="https://cdn.simpleicons.org/github/ffffff" width="20" align="absmiddle"/> | Recent Activites:
 </h3>
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [PacMan](https://github.com/Newfies/G-Pac-Man/releases/tag/PacMan) in [Newfies/G-Pac-Man](https://github.com/Newfies/G-Pac-Man)
 <!--END_SECTION:activity-->
+
+<!-- Unused Content Below -->
+
+<!--| [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) | [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) | [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) | [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) | [![portfolio](https://img.shields.io/badge/Ko--fi-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://google.com) |
+|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
+-->
