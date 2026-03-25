@@ -35,7 +35,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
 </h3>
 
 1. [New Encrypted Login System](https://github.com/Newfies/secure-bcrypt-sqlite-login-system) 
- > I wanna recreate this without the help of AI but for now here is my idea.
+    > I wanna recreate this without the help of AI but for now here is my idea.
 2. [NoMoCens Open Source](https://newfies.github.io/OpenSource-S/)
 
 <h3>
