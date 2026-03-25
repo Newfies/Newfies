@@ -34,8 +34,9 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
     <img src="https://cdn.simpleicons.org/github/ffffff" width="20" align="absmiddle"/> | My Proud Creations:
 </h3>
 
+> [!NOTE]
+> This project does contain AI generated content, it was based on a previous project I made myself, but for now this is the idea of it.
 1. [New Encrypted Login System](https://github.com/Newfies/secure-bcrypt-sqlite-login-system) 
-    > I wanna recreate this without the help of AI but for now here is my idea.
 2. [NoMoCens Open Source](https://newfies.github.io/OpenSource-S/)
 
 <h3>
