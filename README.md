@@ -45,5 +45,5 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [PacMan](https://github.com/Newfies/G-Pac-Man/releases/tag/PacMan) in [Newfies/G-Pac-Man](https://github.com/Newfies/G-Pac-Man)
+1. 🚀 Published release [DiscordJSExpress v1.0.1](https://github.com/Newfies/DiscordJSExpress/releases/tag/v1.0.1) in [Newfies/DiscordJSExpress](https://github.com/Newfies/DiscordJSExpress)
 <!--END_SECTION:activity-->
