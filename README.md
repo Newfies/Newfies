@@ -14,7 +14,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
 </h3>
 
 <!--QUOTE-START-->
-![Quote](https://raw.githubusercontent.com/Newfies/Newfies/refs/heads/main/res/quote.png?1779225640)
+![Quote](https://raw.githubusercontent.com/Newfies/Newfies/refs/heads/main/res/quote.png?1779314150)
 <!--QUOTE-END-->
 
 <h3>
@@ -34,11 +34,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
     <img src="https://cdn.simpleicons.org/github/ffffff" width="20" align="absmiddle"/> | My Proud Creations:
 </h3>
 
-### 1. [Secure Bcrypt & SQLite Login System](https://github.com/Newfies/secure-bcrypt-sqlite-login-system)
-> [!NOTE]
-> This project does contain AI generated content, it was based on a previous project I made myself, but for now this is the idea of it.
-
-### 2. [NoMoCens Open Source](https://newfies.github.io/OpenSource-S/)
+### 1. [NoMoCens Open Source](https://newfies.github.io/OpenSource-S/)
 
 <h3>
     <img src="https://cdn.simpleicons.org/github/ffffff" width="20" align="absmiddle"/> | Recent Activites:
