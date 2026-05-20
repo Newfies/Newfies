@@ -4,3 +4,7 @@
 
 > [!NOTE]
 > This project does contain AI generated content, it was based on a previous project I made myself, but for now this is the idea of it.
+
+### 1. [Secure Bcrypt & SQLite Login System](https://github.com/Newfies/secure-bcrypt-sqlite-login-system)
+> [!NOTE]
+> This project does contain AI generated content, it was based on a previous project I made myself, but for now this is the idea of it.
