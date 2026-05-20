@@ -1,4 +1,4 @@
-![Logo](res/banner.png)
+![Logo](res/banner2.png)
 
 <h3>
   <img src="res/introduction-icon.svg" width="20" align="absmiddle"/> | Introduction:
