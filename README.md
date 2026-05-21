@@ -41,5 +41,5 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DiscordJSExpress v1.0.1](https://github.com/Newfies/DiscordJSExpress/releases/tag/v1.0.1) in [Newfies/DiscordJSExpress](https://github.com/Newfies/DiscordJSExpress)
+1. 🚀 Published release [v1.7](https://github.com/Newfies/HideIt/releases/tag/v1.7) in [Newfies/HideIt](https://github.com/Newfies/HideIt)
 <!--END_SECTION:activity-->
