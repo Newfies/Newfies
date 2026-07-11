@@ -1,4 +1,4 @@
-name: Update Newfies Quote
+name: Update Newfies Quote in README.md
 on:
   schedule:
     - cron: '0 */4 * * *'
