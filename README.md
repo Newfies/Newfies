@@ -41,6 +41,6 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.7](https://github.com/Newfies/HideIt/releases/tag/v1.7) in [Newfies/HideIt](https://github.com/Newfies/HideIt)
+1. 🚀 Published release [v1.0 Release](https://github.com/Newfies/AutoHDDLetter/releases/tag/v1.0) in [Newfies/AutoHDDLetter](https://github.com/Newfies/AutoHDDLetter)
 2. 🚀 Published release [v1.0](https://github.com/Newfies/AutoHDDLetter/releases/tag/v1.0) in [Newfies/AutoHDDLetter](https://github.com/Newfies/AutoHDDLetter)
 <!--END_SECTION:activity-->
