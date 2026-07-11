@@ -34,7 +34,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
     <img src="https://cdn.simpleicons.org/github/ffffff" width="20" align="absmiddle"/> | My Proud Creations:
 </h3>
 
-1. 🌐 [Newfies/OpenSource-S](https://github.com/Newfies/OpenSource-S) or [GitHub Page](https://newfies.github.io/OpenSource-S/)
+1. 🌐 [OpenSource-S on GitLab](https://gitlab.com/nmcopensourceprojects/S) or [GitHub Page](https://newfies.github.io/OpenSource-S/)
 
 <h3>
     <img src="https://cdn.simpleicons.org/github/ffffff" width="20" align="absmiddle"/> | Recent Activites:
