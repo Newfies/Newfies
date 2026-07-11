@@ -31,7 +31,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
 ![](https://github-contributor-stats.vercel.app/api?username=Newfies&limit=5&theme=shadow_red&show_icons=true&border_color=bb0000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=8c0000&combine_all_yearly_contributions=true&card_width=530)<br/>
 
 <h3>
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="20" align="absmiddle"/> | My Proud Creations:
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="20" align="absmiddle"/> <img src="https://cdn.simpleicons.org/gitlab/ffffff" width="20" align="absmiddle"/> <img src="https://cdn.simpleicons.org/codeberg/ffffff" width="20" align="absmiddle"/> | My Proud Creations:
 </h3>
 
 1. 🌐 [OpenSource-S on GitLab](https://gitlab.com/nmcopensourceprojects/S) or [GitHub Page](https://newfies.github.io/OpenSource-S/)
