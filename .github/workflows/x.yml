@@ -16,6 +16,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "Specify a custom commit message"
-          MAX_LINES: 10
-          COMMIT_NAME: GitHub Activity Readme
+          COMMIT_MSG: "Updating Recent Activity"
+          MAX_LINES: 25
+          COMMIT_NAME: GitHub Activity Readme Update
