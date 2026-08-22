@@ -14,7 +14,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am l
 </h3>
 
 <!--QUOTE-START-->
-![Quote](https://raw.githubusercontent.com/Newfies/Newfies/refs/heads/main/res/quote.png?1787343975)
+![Quote](https://raw.githubusercontent.com/Newfies/Newfies/refs/heads/main/res/quote.png?1787361351)
 <!--QUOTE-END-->
 
 <h3>
