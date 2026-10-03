@@ -6,7 +6,7 @@
 </h3>
 
 
-Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am learning to become a programmer and developer!
+Hello, its Newfies! I am self taught and highly neurodivergent. I am learning to become a programmer and developer!
 
 <h3>
   <img src="res/quote.svg" width="20" align="absmiddle"/> | Newfies Quote:
