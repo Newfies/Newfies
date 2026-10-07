@@ -14,7 +14,7 @@ Hello, its Newfies! I am self taught and highly neurodivergent. I am learning to
 </h3>
 
 <!--QUOTE-START-->
-![Quote](https://raw.githubusercontent.com/Newfies/Newfies/refs/heads/main/res/quote.png?1791329866)
+![Quote](https://raw.githubusercontent.com/Newfies/Newfies/refs/heads/main/res/quote.png?1791348521)
 <!--QUOTE-END-->
 
 <h3>
