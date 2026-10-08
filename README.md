@@ -41,6 +41,6 @@ Hello, its Newfies! I am self taught and highly neurodivergent. I am learning to
 </h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0 Release](https://github.com/Newfies/AutoHDDLetter/releases/tag/v1.0) in [Newfies/AutoHDDLetter](https://github.com/Newfies/AutoHDDLetter)
+1. 🚀 Published release [v1.8](https://github.com/Newfies/HideIt/releases/tag/v1.8) in [Newfies/HideIt](https://github.com/Newfies/HideIt)
 2. 🚀 Published release [v1.0](https://github.com/Newfies/AutoHDDLetter/releases/tag/v1.0) in [Newfies/AutoHDDLetter](https://github.com/Newfies/AutoHDDLetter)
 <!--END_SECTION:activity-->
